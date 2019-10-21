@@ -7,3 +7,7 @@
 [1015/234528:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [1015/234528:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [1015/234540:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[1015/234546:INFO:exception_record.cc(518)] [QB]Process ID: 1220032 Type: 4
+[1015/235158:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[1016/071819:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[1016/071841:INFO:exception_record.cc(518)] [QB]Process ID: 1220456 Type: 4
